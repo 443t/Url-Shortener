@@ -3,13 +3,14 @@ Project is analog of https://goo.gl/. It simplifies url-links (for example: http
 
 ##### Features: 
 1. Input field and button “Shorten URL”.
-2. Autoremoving unused strings from DB by schedule.
-3. Counter of clicks by URL.
-4. History of transformations (list).
-5. Sending e-mail with new shorten URL.
+2. Checking input.
+3. Autoremoving unused strings from DB by schedule (3 days).
+5. Countering of clicks by URL.
+6. History of transformations (list).
+7. Sending e-mail with new shorten URL.
 
 ##### Technologies: 
-Java.
-AWS (S3, Route 53, API Gateway, Lambda, DynamoDB, ).
-HTML, CSS, JavaScript, Bootstrap.
+⋅⋅* Java.
+⋅⋅* AWS (S3, Route 53, API Gateway, Lambda, DynamoDB, ).
+⋅⋅* HTML, CSS, JavaScript, Bootstrap.
 
