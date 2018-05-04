@@ -11,6 +11,6 @@ Project is analog of https://goo.gl/. It simplifies url-links (for example: http
 
 ##### Technologies: 
 * Java.
-* AWS (S3, Route 53, API Gateway, Lambda, DynamoDB, ).
+* AWS (S3, Route 53, API Gateway, Lambda, DynamoDB).
 * HTML, CSS, JavaScript, Bootstrap.
 
