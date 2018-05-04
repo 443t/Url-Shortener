@@ -10,7 +10,7 @@ Project is analog of https://goo.gl/. It simplifies url-links (for example: http
 7. Sending e-mail with new shorten URL.
 
 ##### Technologies: 
-⋅⋅* Java.
-⋅⋅* AWS (S3, Route 53, API Gateway, Lambda, DynamoDB, ).
-⋅⋅* HTML, CSS, JavaScript, Bootstrap.
+* Java.
+* AWS (S3, Route 53, API Gateway, Lambda, DynamoDB, ).
+* HTML, CSS, JavaScript, Bootstrap.
 
