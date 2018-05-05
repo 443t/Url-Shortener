@@ -14,3 +14,6 @@ Project is analog of https://goo.gl/. It simplifies url-links (for example: http
 * AWS (S3, Route 53, API Gateway, Lambda, DynamoDB).
 * HTML, CSS, JavaScript, Bootstrap.
 
+
+
+![alt text](https://github.com/443t/Url-Shortener/blob/master/architecture.png)
