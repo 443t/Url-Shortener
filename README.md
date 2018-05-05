@@ -16,4 +16,4 @@ Project is analog of https://goo.gl/. It simplifies url-links (for example: http
 
 
 
-![alt text](https://github.com/443t/Url-Shortener/blob/master/architecture.png)
+![alt text](https://github.com/443t/Url-Shortener/blob/master/architecture.jpg)
